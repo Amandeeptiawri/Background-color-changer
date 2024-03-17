@@ -1,0 +1,35 @@
+
+.wraper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+#white{
+    background-color: white;
+    width: 200px;
+    aspect-ratio: 1/1;
+    border: 2px solid black;
+}
+#blue{
+    background-color: blue;
+    width: 200px;
+    aspect-ratio: 1/1;
+    border: 2px solid black;
+}
+#green{
+    background-color: green;
+    width: 200px;
+    aspect-ratio: 1/1;
+    border: 2px solid black;
+}
+#yellow{
+    background-color: yellow;
+    width: 200px;
+    aspect-ratio: 1/1;
+    border: 2px solid black;
+}
